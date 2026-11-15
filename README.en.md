@@ -232,3 +232,14 @@ An invisible button sits on the **green gift** of the title panel. Clicking it t
 7. Re-adjust the hidden test-mode button (`.giftbtn`) on the new element of the title panel.
 8. Test: enable test mode, open all doors, check the source links, switch the language, resize the window (mobile and desktop).
 9. Reset the calendar before publishing, then turn test mode off.
+
+---
+
+## 10. License
+
+- **Code** (HTML, CSS, JavaScript): **MIT** license — see the `LICENSE` file.
+- **Content created by the author** (door texts, original illustrations): **CC BY 4.0** license — see the `LICENSE-CONTENT` file. You may reuse and modify it, including commercially, as long as you credit the author ("zarafa-dev-io") and indicate any changes.
+- **IBM trademarks and visuals**: the z17 image (the mainframe tower), the IBM logo and the "Z" logo belong to IBM. IBM and z17 are trademarks of IBM. This project is independent and is not affiliated with, endorsed by or sponsored by IBM; these elements are not covered by the licenses above.
+- **Not covered**: any third-party element (for example the IBM mainframe photograph and IBM marks, or any image / animation whose rights you do not hold) is **not** covered by these licenses. Replace them with your own visuals before redistributing the calendar.
+
+Copyright (c) 2026 zarafa-dev-io

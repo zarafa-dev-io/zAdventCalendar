@@ -230,3 +230,14 @@ Un bouton invisible est placé sur le **cadeau vert** du panneau de titre. Un cl
 7. Recaler le bouton caché du mode test (`.giftbtn`) sur le nouvel élément du panneau de titre.
 8. Tester : activer le mode test, ouvrir toutes les cases, vérifier les liens de source, basculer la langue, redimensionner la fenêtre (mobile et ordinateur).
 9. Réinitialiser le calendrier avant publication, puis désactiver le mode test.
+
+---
+
+## 10. Licence
+
+- **Code** (HTML, CSS, JavaScript) : licence **MIT** — voir le fichier `LICENSE`.
+- **Contenus créés par l'auteur** (textes des cases, illustrations originales) : licence **CC BY 4.0** — voir le fichier `LICENSE-CONTENT`. Vous pouvez les réutiliser et les modifier, y compris commercialement, à condition de citer l'auteur (« zarafa-dev-io ») et d'indiquer les modifications.
+- **Marques et visuels IBM** : l'image du z17 (la tour mainframe), le logo IBM et le logo « Z » appartiennent à IBM. IBM et z17 sont des marques d'IBM. Ce projet est indépendant et n'est ni affilié à IBM, ni approuvé ou sponsorisé par IBM ; ces éléments ne sont pas couverts par les licences ci-dessus.
+- **Éléments non couverts** : tout élément appartenant à un tiers (par exemple la photo de la tour mainframe IBM et les marques IBM, ou toute image / animation dont vous ne détenez pas les droits) n'est **pas** couvert par ces licences. Remplacez-les par vos propres visuels avant de redistribuer le calendrier.
+
+Copyright (c) 2026 zarafa-dev-io
